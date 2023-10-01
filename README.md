@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **fine-tuning LLAMA-2 personalized tutor**
 
-- 🌱 I’m currently learning **React, GraphQL and Kotlin.**
+- 🌱 I’m currently learning **Kotlin.**
 
 - 👨‍💻 All of my projects are available at [hugoalvarado.dev](https://hugoalvarado.dev/)
 
