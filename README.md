@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **fine-tuning of an LLM in AWS**
 
-- 🌱 I’m currently learning more about Natural Language Processing and Back-end developemnt, I want to gain more expertirse to in 6 months start with Java + Boosprint for improve my skills.
+- 🌱 I’m currently learning more about Natural Language Processing and Back-end developemnt.
 
 - 👨‍💻 All of my projects are available at [hugoalvarado.dev](https://hugoalvarado.dev/)
 
-- 💬 Ask me about **algorithms, maths, I.A and software.**
+- 💬 Ask me about **algorithms (I love graphs and dynamic programming), maths (I like Calculus, I'm fascinated with the idea of ininite and lateral numbers (Imaginary numbers)), I.A (NLP) and software (back-end development).**
 
 - 📫 You can reach me at **contact@hugoalvarado.dev**
 
