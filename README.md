@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [hugoalvarado.dev](https://hugoalvarado.dev/)
 
-- 💬 Ask me about **algorithms (I love graphs and dynamic programming), maths (I like Calculus, I'm fascinated with the idea of ininite and lateral numbers (Imaginary numbers)), I.A (NLP) and software (back-end development).**
+- 💬 Ask me about **algorithms (I love graphs and dynamic programming), maths (I like Calculus, I'm fascinated with the idea of infinite and lateral numbers (Imaginary numbers)), I.A (NLP) and software (back-end development).**
 
 - 📫 You can reach me at **contact@hugoalvarado.dev**
 
