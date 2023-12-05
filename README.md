@@ -5,17 +5,13 @@
 
 <img align="right" alt="coding" width="400" src="https://hugoalvarado.dev/Images/programming.gif" loop="infinite">
 
-- 🔭 I’m currently working on **fine-tuning LLAMA-2 personalized tutor**
+- 🔭 I’m currently working on **fine-tuning of an LLM in AWS**
 
-- 🌱 I’m currently learning **Kotlin.**
+- 🌱 I’m currently learning more about Natural Language Processing and Back-end developemnt, I want to gain more expertirse to in 6 months start with Java + Boosprint for improve my skills.
 
 - 👨‍💻 All of my projects are available at [hugoalvarado.dev](https://hugoalvarado.dev/)
 
-- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/hugorscc/)
-
 - 💬 Ask me about **algorithms, maths, I.A and software.**
-
-- 📄 Know about my experiences on my website or ask me for access to a repo
 
 - 📫 You can reach me at **contact@hugoalvarado.dev**
 
