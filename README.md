@@ -5,7 +5,7 @@
 
 <img align="right" alt="coding" width="400" src="https://hugoalvarado.dev/Images/programming.gif" loop="infinite">
 
-- 🔭 I’m currently working on **fine-tuning of an LLM in AWS**
+- 🔭 I’m currently working on **back-end development**
 
 - 🌱 I’m currently learning more about Natural Language Processing and Back-end developemnt.
 
